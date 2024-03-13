@@ -1,7 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\AUth\register;
+use app\Http\Controllers\User;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
